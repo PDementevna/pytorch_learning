@@ -1,0 +1,5 @@
+matplotlib>=3.2.1
+torch>=1.5.0
+numpy>=1.18.5
+tqdm>=4.46.1
+opencv-python>=4.2.0.34
