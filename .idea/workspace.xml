@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fde3ffee-80ae-43f7-8500-e8ef2a838c86" name="Default Changelist" comment="The neural network is launched on CPU. Next aim is to launch it on the colab with GPU">
-      <change afterPath="$PROJECT_DIR$/data_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-8epochs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytorch_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch_learning.iml" afterDir="false" />
+    <list default="true" id="fde3ffee-80ae-43f7-8500-e8ef2a838c86" name="Default Changelist" comment="Have completed tutorial course on YouTube">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +88,9 @@
       <module name="pytorch_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -125,7 +122,8 @@
       <workItem from="1591878472060" duration="2436000" />
       <workItem from="1591980500735" duration="145000" />
       <workItem from="1592036967048" duration="428000" />
-      <workItem from="1592059966671" duration="2323000" />
+      <workItem from="1592059966671" duration="2543000" />
+      <workItem from="1592063385949" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="The notebook from the youtube tutorial is added (4th lesson). I'm trying to connect PyCharm and Google Colab">
       <created>1591879870999</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592037154869</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Have completed tutorial course on YouTube">
+      <created>1592063354567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592063354567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +168,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="The notebook from the youtube tutorial is added (4th lesson). I'm trying to connect PyCharm and Google Colab" />
     <MESSAGE value="The neural network is launched on CPU. Next aim is to launch it on the colab with GPU" />
-    <option name="LAST_COMMIT_MESSAGE" value="The neural network is launched on CPU. Next aim is to launch it on the colab with GPU" />
+    <MESSAGE value="Have completed tutorial course on YouTube" />
+    <option name="LAST_COMMIT_MESSAGE" value="Have completed tutorial course on YouTube" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="115" key="#Docker" timestamp="1591808883841">
@@ -191,38 +197,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="444" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900/-1024.0.1024.820@0.0.1440.900" timestamp="1591802583370" />
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1592062222237">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1592063376410">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592062222237" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1592062222236">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592063376410" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1592063376407">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592062222236" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1592062222235">
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592063376407" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1592063376406">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592062222235" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1592062222236">
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592063376406" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1592063376408">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592062222236" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1592062222239">
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592063376408" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1592063376413">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592062222239" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1592062222238">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592063376413" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1592063376412">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1592062222238" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1592062222237">
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1592063376412" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1592063376411">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1592062222237" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1592062222238">
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1592063376411" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1592063376412">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1592062222238" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1592063376412" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1592063155556">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
